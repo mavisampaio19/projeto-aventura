@@ -1,0 +1,16 @@
+body {
+    background-color: darkred;
+    color: black;
+    font-family: "Rubik Glitch", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button { 
+    background-color: brown;
+    color: black;
+    font-family: "Tinos", serif;
+}
